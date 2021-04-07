@@ -1,2 +1,3 @@
-# GitPractice
-Practicing Git
+### Practicing git
+#### Adding Image
+![addimage](foolish.png)
