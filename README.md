@@ -1,2 +1,2 @@
-# GitPractice
-Practicing Git
+### Practicing git
+#### Adding image 
