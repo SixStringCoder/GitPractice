@@ -1,3 +1,3 @@
 ### Practicing git
-#### Adding image 
-(foolish.png)
+#### Adding Image
+![addimage](foolish.png)
